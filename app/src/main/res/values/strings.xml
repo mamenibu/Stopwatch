@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">軍曹ウォッチ</string>
+    <string name="test">スタート</string>
+    <string name="test1">リセット</string>
+    <string name="test2">ストップ</string>
+    <string name="todo">TODO</string>
+</resources>
